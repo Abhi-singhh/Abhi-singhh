@@ -2,7 +2,7 @@
 
 # Hey, I'm Abhishek 👋
 
-### MADS (Master of Applied Data Science) student @ University of Victoria | Computer Vision • Signal Processing • Applied ML
+### MADS (Master of Applied Data Science) student @ University of Victoria 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7B32B&center=true&vCenter=true&width=600&lines=Building+ML+systems+that+actually+ship;YOLOv8+%7C+ByteTrack+%7C+ResNet+%7C+RAG+pipelines;Currently+hunting+for+a+Fall+2026+co-op;Ask+me+about+maritime+object+detection)](https://git.io/typing-svg)
 
