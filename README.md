@@ -1,5 +1,5 @@
 <div align="center">
-
+![Abhi-singhh](https://komarev.com/ghpvc/?username=Abhi-singhh&color=blueviolet&style=flat)
 # Hey, I'm Abhishek 👋
 
 ### MADS (Master of Applied Data Science) student @ University of Victoria | Computer Vision • Signal Processing • Applied ML
