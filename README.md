@@ -20,8 +20,8 @@
 - 🎓 Master of Applied Data Science (MADS) student at the **University of Victoria**, BC, Canada — co-op program, graduating 2026
 - 🔭 Focused on **computer vision**, **signal processing**, and applied ML systems that go beyond notebooks into working pipelines
 - 🧠 Background: B.Tech in Computer Science Engineering
-- ☕ Working part-time at Tim Hortons in Victoria while job-hunting and building projects on the side
-- 🇨🇦 Actively looking for a **Fall 2026 co-op** in CV/ML — recently applied to Open Ocean Robotics, BC Fish & Wildlife, City of Victoria, ICBC, CSA, and Moment Energy
+- ☕🔭 Turning graduate coursework into practice — applying what I learn in class to real-world problems, like building a species classifier from camera trap images or a vessel detection and tracking pipeline for maritime data
+- 🇨🇦Actively looking for a Fall 2026 co-op in Data Science, Computer Vision, and Applied ML.
 - 💬 Ask me about: object detection, model evaluation, or how to go from "trains in a notebook" to "actually deployed"
 
 ---
