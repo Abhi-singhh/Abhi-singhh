@@ -54,14 +54,7 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Abhi-singhh&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhi-singhh&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi-singhh&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-</div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Abhi-singhh&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165"/> <img src="https://streak-stats.demolab.com/?user=Abhi-singhh&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi-singhh&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165"/> </div>
 
 ---
 
